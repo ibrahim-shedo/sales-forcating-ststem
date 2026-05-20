@@ -20,12 +20,14 @@
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/1200x600/1e3c72/ffffff?text=Sales+Forecasting+Dashboard)
+![Dashboard](<img width="1674" height="961" alt="Screenshot 2026-05-20 at 10 31 30" src="https://github.com/user-attachments/assets/61bd314e-fae2-4c97-95f7-e156c11e06fb" />
+)
 
 *The main dashboard showing key metrics and interactive visualizations*
 
 ### Forecast Analysis
-![Forecast](https://via.placeholder.com/1200x600/2a5298/ffffff?text=Forecast+with+Confidence+Intervals)
+![Forecast](<img width="1641" height="888" alt="forcast analysis" src="https://github.com/user-attachments/assets/faccdcbf-90ab-415a-92f1-42ffea625ff6" />
+)
 
 *AI-powered forecasting with 95% confidence intervals*
 
