@@ -36,14 +36,6 @@
 
 ---
 
-# 📊 Sales Forecasting System
-
-An AI-powered sales forecasting application that helps businesses predict future sales, identify trends, and make data-driven decisions.
-
-## 🎯 Project Overview
-
-This project was developed to address the challenge of accurate sales forecasting for retail businesses. Using historical sales data, the system predicts future sales patterns with 95% confidence intervals, helping businesses optimize inventory, plan marketing campaigns, and allocate resources effectively.
-
 ## 🔍 Key Findings
 
 ### 1. **Seasonal Patterns Matter Most**
