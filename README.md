@@ -29,13 +29,11 @@
 ### Forecast Analysis
 ![Forecast]<img width="1641" height="888" alt="forcast analysis" src="https://github.com/user-attachments/assets/fbf43f23-9a93-4486-b24c-7d6b06c7d8dc" />
 
+<img width="1679" height="960" alt="Screenshot 2026-05-20 at 10 31 55" src="https://github.com/user-attachments/assets/ebae542f-32dc-488b-8d7c-50d665477ba0" />
 
 *AI-powered forecasting with 95% confidence intervals*
 
-### Business Insights
-![Insights](https://via.placeholder.com/1200x600/28a745/ffffff?text=Business+Intelligence+Insights)
 
-*Automated business recommendations and anomaly detection*
 
 ---
 
