@@ -20,7 +20,8 @@
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](<img width="1674" height="961" alt="Screenshot 2026-05-20 at 10 31 30" src="https://github.com/user-attachments/assets/61bd314e-fae2-4c97-95f7-e156c11e06fb" />
+![Dashboard](<img width="1674" height="961" alt="Screenshot 2026-05-20 at 10 31 30" src="https://github.com/user-attachments/assets/ed4aa7bc-5534-426b-842c-ec839a7062df" />
+
 )
 
 *The main dashboard showing key metrics and interactive visualizations*
