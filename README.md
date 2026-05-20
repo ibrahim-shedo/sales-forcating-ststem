@@ -27,8 +27,8 @@
 *The main dashboard showing key metrics and interactive visualizations*
 
 ### Forecast Analysis
-![Forecast](<img width="1641" height="888" alt="forcast analysis" src="https://github.com/user-attachments/assets/faccdcbf-90ab-415a-92f1-42ffea625ff6" />
-)
+![Forecast]<img width="1641" height="888" alt="forcast analysis" src="https://github.com/user-attachments/assets/fbf43f23-9a93-4486-b24c-7d6b06c7d8dc" />
+
 
 *AI-powered forecasting with 95% confidence intervals*
 
