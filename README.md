@@ -113,3 +113,28 @@ git clone https://github.com/yourusername/sales-forecasting-suite.git && \
 cd sales-forecasting-suite && \
 pip install -r requirements.txt && \
 streamlit run app.py
+
+## Installation Guide
+
+### Prerequisites
+
+Before installing, ensure you have:
+
+- **Python 3.8 or higher** ([Download](https://www.python.org/downloads/))
+- **pip** (Python package manager)
+- **Git** ([Download](https://git-scm.com/downloads))
+- **4GB RAM minimum** (8GB recommended for large datasets)
+
+### Step-by-Step Installation
+
+#### 1. Clone the Repository
+
+```bash
+# Using HTTPS
+git clone https://github.com/yourusername/sales-forecasting-suite.git
+
+# Using SSH
+git clone git@github.com:yourusername/sales-forecasting-suite.git
+
+# Navigate to project directory
+cd sales-forecasting-suite
