@@ -104,4 +104,3 @@ The application includes:
 - **Insights Generator** - Automated business recommendations
 - **Export Module** - CSV downloads for reporting
 
-## 📁 Project Structure
